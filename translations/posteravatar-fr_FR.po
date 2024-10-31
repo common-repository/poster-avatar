@@ -1,0 +1,89 @@
+#!/usr/bin/env php 
+# Translation of the WordPress plugin by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the package.
+# FIRST AUTHOR , 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Poster Avatar\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/poster-avatar\n"
+"POT-Creation-Date: 2010-03-25 20:42+0000\n"
+"PO-Revision-Date: 2010-03-25 21:53+0100\n"
+"Last-Translator: Yriase <postmaster@yriase.fr>\n"
+"Language-Team: Yriase <postmaster@yriase.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: posteravatar.php:39
+msgid "Poster Avatar"
+msgstr "Poster Avatar"
+
+#: posteravatar.php:70
+msgid "Credits"
+msgstr "Crédits"
+
+#: posteravatar.php:71
+msgid "Developped by"
+msgstr "Développé par"
+
+#: posteravatar.php:72
+msgid "ColorPicker by"
+msgstr "ColorPicker par"
+
+#: posteravatar.php:76
+msgid "Poster Avatar Configuration"
+msgstr "Configuration de Poster Avatar"
+
+#: posteravatar.php:79
+msgid "You can configure the avatar position, its border, the border's color etc..."
+msgstr "Vous pouvez configurer la position de l'avatar, sa bordure, la couleur de la bordure etc..."
+
+#: posteravatar.php:83
+msgid "Avatar position"
+msgstr "Position de l'avatar"
+
+#: posteravatar.php:84
+msgid "Left"
+msgstr "Gauche"
+
+#: posteravatar.php:85
+msgid "Right"
+msgstr "Droite"
+
+#: posteravatar.php:89
+msgid "Size"
+msgstr "Taille"
+
+#: posteravatar.php:102
+msgid "Use a default avatar"
+msgstr "Utiliser un avatar par défaut"
+
+#: posteravatar.php:104
+msgid "Default avatar"
+msgstr "Avatar par défaut"
+
+#: posteravatar.php:108
+msgid "Border"
+msgstr "Bordure"
+
+#: posteravatar.php:112
+msgid "Border color"
+msgstr "Couleur de la bordure"
+
+#: posteravatar.php:116
+msgid "Additional CSS"
+msgstr "CSS additionnel"
+
+#: posteravatar.php:121
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: posteravatar.php:122
+msgid "Reset"
+msgstr "Remise à zéro"
+
